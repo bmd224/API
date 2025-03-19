@@ -1,0 +1,52 @@
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Cours 3 - Swagger API.exe
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Cours 3 - Swagger API.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\appsettings.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\__azurite_db_blob_extent__.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\__azurite_db_blob__.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\__azurite_db_queue_extent__.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\__azurite_db_queue__.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\__azurite_db_table__.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Cours 3 - Swagger API.staticwebassets.endpoints.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.csproj.AssemblyReference.cache
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.AssemblyInfoInputs.cache
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.AssemblyInfo.cs
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.csproj.CoreCompileInputs.cache
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\scopedcss\bundle\Cours 3 - Swagger API.styles.css
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets\msbuild.Cours 3 - Swagger API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets\msbuild.Cours 3 - Swagger API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets\msbuild.build.Cours 3 - Swagger API.props
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Cours 3 - Swagger API.props
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Cours 3 - Swagger API.props
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 .47A8259C.Up2Date
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\refint\Cours 3 - Swagger API.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.pdb
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Cours 3 - Swagger API.deps.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Cours 3 - Swagger API.runtimeconfig.json
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\bin\Debug\net9.0\Cours 3 - Swagger API.pdb
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\Cours 3 - Swagger API.genruntimeconfig.cache
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\ref\Cours 3 - Swagger API.dll
+C:\Users\barry\Downloads\Iteration 2 - Swagger (1)\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

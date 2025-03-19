@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cours 3 - Swagger API.props" />
+</Project>

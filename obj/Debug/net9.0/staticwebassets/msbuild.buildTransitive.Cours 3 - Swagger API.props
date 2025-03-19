@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cours 3 - Swagger API.props" />
+</Project>

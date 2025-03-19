@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\data\\irepository_mini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:data\\irepository_mini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\data\\efrepository_mini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:data\\efrepository_mini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\data\\efrepository_mini_inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:data\\efrepository_mini_inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\business\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:business\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\data\\applicationdbcontextinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:data\\applicationdbcontextinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\data\\swaggerhelper_fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:data\\swaggerhelper_fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|c:\\users\\barry\\downloads\\iteration 2 - swagger (1)\\__azurite_db_blob__.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{171B9FD6-AAE1-4D2F-86FB-577B321761BC}|Cours 3 - Swagger API.csproj|solutionrelative:__azurite_db_blob__.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFRepository_mini.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\EFRepository_mini.cs",
+              "RelativeDocumentMoniker": "Data\\EFRepository_mini.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\EFRepository_mini.cs",
+              "RelativeToolTip": "Data\\EFRepository_mini.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:47:41.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository_mini.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\IRepository_mini.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository_mini.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\IRepository_mini.cs",
+              "RelativeToolTip": "Data\\IRepository_mini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:47:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:35:13.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFRepository_mini_InMemory.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\EFRepository_mini_InMemory.cs",
+              "RelativeDocumentMoniker": "Data\\EFRepository_mini_InMemory.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\EFRepository_mini_InMemory.cs",
+              "RelativeToolTip": "Data\\EFRepository_mini_InMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:44:36.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobController.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Business\\BlobController.cs",
+              "RelativeDocumentMoniker": "Business\\BlobController.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Business\\BlobController.cs",
+              "RelativeToolTip": "Business\\BlobController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:58:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\ApplicationDbContextInMemory.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContextInMemory.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\ApplicationDbContextInMemory.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContextInMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:47:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwaggerHelper_FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\SwaggerHelper_FileUpload.cs",
+              "RelativeDocumentMoniker": "Data\\SwaggerHelper_FileUpload.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Data\\SwaggerHelper_FileUpload.cs",
+              "RelativeToolTip": "Data\\SwaggerHelper_FileUpload.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:49:35.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\PostDTO.cs",
+              "RelativeDocumentMoniker": "Models\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\PostDTO.cs",
+              "RelativeToolTip": "Models\\PostDTO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwF8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:45:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:44:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\CommentDTO.cs",
+              "RelativeToolTip": "Models\\CommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:45:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:44:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "__azurite_db_blob__.json",
+              "DocumentMoniker": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\__azurite_db_blob__.json",
+              "RelativeDocumentMoniker": "__azurite_db_blob__.json",
+              "ToolTip": "C:\\Users\\barry\\Downloads\\Iteration 2 - Swagger (1)\\__azurite_db_blob__.json",
+              "RelativeToolTip": "__azurite_db_blob__.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T10:10:43.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
